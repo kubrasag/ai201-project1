@@ -39,11 +39,25 @@ def parse_document(filename, text):
         chunks.append(chunk_text)
     return chunks
 
-def build_all_chunks():
-    """Load every document and return a list of (filename, chunk_text) pairs."""
+def build_chunks():
+    """Load every document and return a list of chunk dicts.
+    Each dict has: text, source (filename), position (index within that file)."""
     docs = load_documents()
     all_chunks = []
     for filename, text in docs:
-        for chunk in parse_document(filename, text):
-            all_chunks.append((filename, chunk))
+        reviews = parse_document(filename, text)
+        for position, chunk_text in enumerate(reviews):
+            all_chunks.append({
+                "text": chunk_text,
+                "source": filename,
+                "position": position,
+            })
     return all_chunks
+
+if __name__ == "__main__":
+    chunks = build_chunks()
+    print(f"Total chunks: {len(chunks)}\n")
+    for c in chunks[:5]:
+        print(f"[{c['source']}] (position {c['position']})")
+        print(c["text"])
+        print()

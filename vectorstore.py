@@ -15,7 +15,11 @@ def setup_collection():
         client.delete_collection("guide")
     except Exception:
         pass
-    collection = client.create_collection("guide")
+    
+    collection = client.create_collection(
+        "guide",
+        metadata={"hnsw:space": "cosine"},
+    )
 
     texts = [c["text"] for c in chunks]
     embeddings = model.encode(texts, show_progress_bar=True).tolist()
