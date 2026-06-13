@@ -1,0 +1,66 @@
+Professor: Abdullah Bal
+Department: Computer Science
+University: Georgia State University
+Source: Rate My Professors
+Overall Quality: 3.8/5 (20 ratings), 70% would take again, Difficulty 2.8/5
+Note: Polarizing reviews — many 5-star, but several 1-star complaints.
+
+--- Review (CSC4520 Algorithms, Jan 2026, Grade A+) ---
+Good professor, he made algorithms easy to understand and straightforward. His exams were based on the examples we did in class. Take him if you can; study for the quizzes and exams, he tells you what's going to be on them. Tags: Lecture heavy, Test heavy, Accessible outside class, Helpful.
+
+--- Review (CSC4520, Dec 2025, Grade B) ---
+His class isn't necessarily hard, so if you study for the exams you'll be fine. However: he said attendance was mandatory and passed out an attendance sheet, but it wasn't in the syllabus' percentage breakdown. His quizzes (30%) are only two questions, so if you mess up one question your grade is tanked. Tags: Helpful.
+
+--- Review (CSC4520, Dec 2025) ---
+Bal is easily one of the best professors at GSU. His lectures are easy to follow, he rewards participation and he genuinely cares about his students' success. Tags: Participation matters, Amazing lectures, Caring, Helpful.
+
+--- Review (CSC4520, Nov 2025, Grade A+) ---
+Coming from a CS student at GSU, he is one of the better ones. HOWEVER, you MUST attend class. If you skip 50%+ of the time, this class WILL be hard. He has a few exams, quizzes, and homeworks. The workload isn't difficult, but the material can be if you're not attending. Tags: Lecture heavy, Test heavy, Graded by few things, Helpful.
+
+--- Review (CSC4520, Oct 2025, Grade Incomplete) ---
+My biggest complaint is that he is slow to grade. None of our grades are posted and it's close to the withdrawal date. He does not provide any study material; he'd rather you study everything on your own, and that can be hundreds of slides just to do 3 questions. Tags: Helpful.
+
+--- Review (CSC4520, Oct 2025) ---
+This professor is very unclear on things. He makes you feel not smart when asking a question. Beware of his smart mouth. Doesn't reply to emails. He reads through the PowerPoint and you can barely hear him. Pro: his tests are straightforward. Tags: Lecture heavy, Test heavy, Graded by few things, Helpful.
+
+--- Review (CSC4520 Digital Image Processing, Oct 2025) ---
+Lectures have fluff equations. His classes are just talking at you with little time to take notes, or they're overworded in vague ways. Lab is typing code he types. Not much graded work nor many study guides; you can hardly prepare for anything. Don't take his class unless you need the credit. Tags: Lecture heavy, Graded by few things, Helpful.
+
+--- Review (CSC4520, May 2025, Grade A) ---
+This class is like a river. It flows through the semester, sometimes easily, other times harshly. Professor Bal provides you the oars, gives direction, and shows you the best way to row the boat. Tags: Amazing lectures, Respected, Lecture heavy, Helpful.
+
+--- Review (CSC6260, Apr 2025, Grade A+) ---
+A very nice professor, one of the best at teaching concepts. If you focus in class there is no need to study hard afterwards, as he clears everything during lectures and is conceptually very strong. His grading is lenient and the assignments are good for learning. Overall a great experience. Tags: Clear grading criteria, Gives good feedback, Respected, Helpful.
+
+--- Review (CSC4520, Apr 2025, Grade A) ---
+Lectures are long and a little boring, but he teaches well. Content isn't hard, but it's good to attend because his entire lecture is practice problems. His exams are straightforward once you get used to them. Very nice and caring; you just have to put in effort. Very helpful in office hours. One of the better CS profs. Tags: Caring, Lecture heavy, Graded by few things, Helpful.
+
+--- Review (CSC4520, Apr 2025) ---
+Difficult to deal with professor in my opinion; a lot of lectures and reading from slides. Takes a ten-minute break 30 minutes into class where most students leave. Not a great learning experience, but the exams are straightforward. Tags: Lecture heavy, Graded by few things, Helpful.
+
+--- Review (CSC3210 Computer Organization, Dec 2024, Grade A-) ---
+Took him for computer org (3210). Two exams make up more than 60% of your grade, so study ahead if you want an A. He does not offer extra credit, so if you mess up on the tests you're on your own. However, he's a lenient grader on quizzes and tests; I missed one question on a quiz and still got 100. Tags: Tough grader, Test heavy, Graded by few things, Helpful.
+
+--- Review (CSC4520, Dec 2024, Grade A-) ---
+Good professor but the class has a lot of information. The tests are short (3-5 questions) but each is worth ~20 points. Tests cover units 1-4, which can be ~300 slides, so you don't know exactly what will be on it. Overall not a hard class if you read the slides and do the examples. Tags: Amazing lectures, Lecture heavy, Test heavy, Helpful.
+
+--- Review (CSC4520 Digital Image Processing, Oct 2024, Grade A+) ---
+Took him for digital image processing spring 2024. His lectures were very easy to follow and he gave breaks at the right time. Very straightforward class. Tags: Participation matters, Respected, Helpful.
+
+--- Review (CSC4520, Oct 2024) ---
+Professor Bal does not provide proper study materials. For our midterm he compressed 250+ pages of PowerPoint slides and reviewed only one day before the exam. No study guide whatsoever. He also talks very quietly and writes small on the left side of the classroom so you can barely see. Tags: Lecture heavy, Helpful.
+
+--- Review (CSC4520, May 2024, Grade A) ---
+Had him for digital image processing; he was very chill and made the class enjoyable. Tags: Caring, Respected, Graded by few things, Helpful.
+
+--- Review (CSC4520, May 2024, Grade A, online) ---
+If you see his name for any CS class, take him. This isn't a "slack and you'll be fine" kind of class. Attend his lectures, ask questions, and you should get an A. He has the best PowerPoints of any professor I've had and he's friendly if you talk to him after class. Tags: Amazing lectures, Gives good feedback, Inspirational, Helpful.
+
+--- Review (CSC4520, Apr 2024, Grade A-) ---
+He has a slight accent but explains concepts very well. He does review days and Kahoot. His exams aren't hard because he explains what will be on them and gives several examples. Should be an easy A as long as you come to class and pay attention. Tags: Clear grading criteria, Respected, Lecture heavy, Helpful.
+
+--- Review (CSC4520, Dec 2023, Grade A) ---
+What I thought would be a boring class turned into engaging learning. Professor Bal learns from students' grades and makes changes. Recaps material from the last lecture and isn't afraid to explain in more detail. Quiz/test material isn't too hard if you pay attention and study. Reviews before tests so everyone understands. Great professor. Tags: Amazing lectures, Gives good feedback, Caring, Helpful.
+
+--- Review (CSC4520, Oct 2023) ---
+Professor Bal is cut from a different cloth. His classes are super easy to understand. He breaks down complex algorithms in a way that's never been done before. Every class he reviews the previous class, tells you what you'll learn, and summarizes at the end. Tags: Amazing lectures, Inspirational, Hilarious, Helpful.

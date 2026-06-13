@@ -1,0 +1,36 @@
+Professor: Islam S M Towhidul
+Department: Computer Science
+University: Georgia State University
+Source: Rate My Professors
+Overall Quality: 2.8/5 (30 ratings), 47% would take again, Difficulty 3.1/5
+Note: Polarizing, taught CSC1302, CSC2720 (Data Structures), CSC3320. Common complaints: reads off slides, tests don't match what's taught, no curve, 2 exams worth 50%+ of grade.
+
+--- Review (CSC3320, Mar 2026, Grade B) ---
+Great professor. Tags: Helpful.
+
+--- Review (CSC2720 Data Structures, Feb 2026, Grade C+) ---
+Least engaging professor I've ever encountered. Lectures are futile, yet mandatory. The only redeeming thing is he shows you resources you can teach yourself with. He does pop quizzes, but only about 2 or 3 the whole semester, and you can use the internet to figure them out. Tags: Beware of pop quizzes, Test heavy, Helpful.
+
+--- Review (CSC1302, Feb 2026, Grade A) ---
+He's not bad but the class I took was easy. All he does is read off the slides. I didn't learn from him; I learned from the slides and the study guides, which are thorough and well made. Tags: Clear grading criteria, Lecture heavy, Online savvy, Helpful.
+
+--- Review (CSC2720, Dec 2025, Grade Incomplete) ---
+If you have him for anything over CSC1302, drop it immediately. His monotone lectures should not be mandatory. He doesn't grade anything until the last week of school. Reads your emails but doesn't respond. 50%+ of your grade is 2 tests. No curves even if the whole class fails, and he doesn't let you make anything up. Doesn't give test 1 back. Tags: Tough grader, Test heavy, Graded by few things, Helpful.
+
+--- Review (CSC2720, Dec 2025, Grade A+) ---
+Professor Towhid is actually a pretty good professor contrary to these reviews. He's easy to follow and explains everything you need for the exams. However, he visualizes things live on screen so the PowerPoint doesn't reflect his explanations. The exams are pretty easy as long as you know each structure conceptually. Tags: Beware of pop quizzes, Lecture heavy, Graded by few things, Helpful.
+
+--- Review (CSC1302, Apr 2025, Grade Incomplete) ---
+Just reads content from the PPT slides he already has. Seems like he has no interest in teaching. His tests include way more questions than what is taught in class. He bores everybody so much that after the first 2 or 3 lectures, 70-80% of people stopped coming. Tags: Tough grader, Get ready to read, Test heavy, Helpful.
+
+--- Review (CSC1302, Dec 2024, Grade A+) ---
+The professor often goes into little detail on major programming concepts, such as recursion. As important and common as these concepts are, he poorly teaches them to most who need to comprehend them. Coming to this class is easy if you already code/program; that's the only reason I got an A+. Tags: Helpful.
+
+--- Review (CSC2720 Data Structures, Dec 2024, Grade B+) ---
+Took him for DSA (CSC2720). His lectures are okay but pay attention since he might do pop quizzes over the same day's material. Takes really long to respond to emails. 2 tests: one is 20% and the final is 30% of your grade. His labs are literally just LeetCode questions, and I don't know why attendance is required. Tags: Extra credit, Beware of pop quizzes, Test heavy, Helpful.
+
+--- Review (CSC3320, Dec 2024, Grade C) ---
+Impersonal and detached prof. 50% of the grade is determined by 2 exams. Even with cheat sheets most still fail the exam. He lied to us about the content on the final exam, fixated on certain topics for none of it to show up. That is dishonesty. Teaches one thing, tests on another. No grace or makeup for anything even with a valid reason. Avoid. Tags: Tough grader, Beware of pop quizzes, Graded by few things, Helpful.
+
+--- Review (CSC3320 Data Structures, Dec 2024, Grade C) ---
+I've taken him for other classes, but Data Structures was tough; I barely scraped by. His final exam study guide was extremely broad and had nothing in common with the actual final, so I wasted a lot of time on it. He's way more difficult than he used to be. Tests are worth so much and prep is very hard. Tags: Tough grader, Lots of homework, Graded by few things, Helpful.

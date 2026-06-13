@@ -1,0 +1,39 @@
+Professor: Farhan Tanvir
+Department: Computer Science
+University: Georgia State University
+Source: Rate My Professors
+Overall Quality: 3.0/5 (11 ratings), 55% would take again, Difficulty 3.5/5
+Note: Polarizing — taught CSC4760 Data Mining/Databases. Common complaint: exams don't match lecture topics.
+
+--- Review (CSC4760 Data Mining, Feb 2026, Grade A-) ---
+If you write correctly, you get good scores. Tags: Participation matters, Gives good feedback, Accessible outside class, Helpful.
+
+--- Review (CSC4760, Jan 2026, Grade A+) ---
+He was kind, understanding, and took his time to make us understand. He created a friendly and warm environment, is someone you could easily talk to, and was just a nice professor. I really enjoyed his class. Tags: Helpful.
+
+--- Review (CSC4760, Aug 2025, Grade A-) ---
+He was okay. Tags: Lecture heavy, Helpful.
+
+--- Review (CSC4760 Data Mining, Aug 2025, Grade A+) ---
+I took him for data mining. He was good. His classwork was aimed at improving your understanding without overcomplicating it or making it too difficult. He was always open to any type of question during and after class. Tags: Gives good feedback, Accessible outside class, Helpful.
+
+--- Review (CSC4760, Aug 2025, Grade A-) ---
+Not difficult but also not easy. I'd say prepare for the exams more and you'll be golden. Tags: Helpful.
+
+--- Review (CSC4760, Aug 2025, Grade A) ---
+Study hard and you will pass the class; it's just a bit hard to follow through the lectures. I'd recommend this class to anyone who loves data science and is interested in SQL and databases. Tags: Helpful.
+
+--- Review (CSC4760, Aug 2025, Grade A+) ---
+He encouraged student participation. Whenever anyone asked a question, he would stop the lecture and answer it. His slides were easy to understand and he explained topics in a simple, clear way. Approachable, patient, and supportive throughout the course. Tags: Helpful.
+
+--- Review (CSC4760, Aug 2025, Grade B) ---
+I remember being tested on a SQL unit; exams are fine (people complained about not learning about JOINs in tables). Helpful if you talked about it with the professor. The course adequately prepared me for database stuff, but not in-depth enough. Lectures were kind of boring and monotone but still helped me pass exams. Tags: Group projects, Beware of pop quizzes, Test heavy, Helpful.
+
+--- Review (CSC4760, Aug 2025, Grade A-) ---
+Fun professor! But the tests are a bit out of context and don't match the given topic, like many reviews below me say. Otherwise, I'm happy with what I learned. Tags: Inspirational, Helpful.
+
+--- Review (CSC4760, Aug 2025, Grade B+) ---
+He was fine, if you don't mind being tested on different topics outside of lecture. Okay-ish, could be better, but I managed to survive. Tags: Group projects, Test heavy, Helpful.
+
+--- Review (CSC4760, Aug 2024, Grade A+) ---
+Professor Tanvir taught this class amazingly and always got straight to the point. He had clear instructions for homework. The final exam is a bit tough but overall you can still pass. I can't complain. Tags: Gives good feedback, Hilarious, Accessible outside class, Helpful.

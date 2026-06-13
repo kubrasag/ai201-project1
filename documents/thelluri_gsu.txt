@@ -1,0 +1,15 @@
+Professor: Preetham Thelluri
+Department: Computer Science
+University: Georgia State University
+Source: Rate My Professors
+Overall Quality: 5.0/5 (only 3 ratings), 100% would take again, Difficulty 2.3/5
+Note: Few reviews. Taught CSC2720 (Data Structures), was a TA. Reviews are short and praise his teaching.
+
+--- Review (CSC2720, May 2025, Grade A+) ---
+Funny, nice, and jacked. Tags: Hilarious, Caring, Respected, Helpful.
+
+--- Review (CSC2720, Nov 2024, Grade A+) ---
+Goat, chill, smart, and jacked. Tags: Amazing lectures, Inspirational, Hilarious, Helpful.
+
+--- Review (CSC2720 Data Structures, Oct 2024, Grade A+) ---
+I had him for data structures. He was a TA but his lectures were better than the professor's. He slides Shakespeare stuff into the concepts smoothly. Definitely recommend. Tags: Gives good feedback, Inspirational, Respected, Helpful.

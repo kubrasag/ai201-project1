@@ -1,0 +1,15 @@
+Professor: Ian Pruitt
+Department: Computer Science
+University: Georgia State University
+Source: Rate My Professors
+Overall Quality: 5.0/5 (only 3 ratings), 100% would take again, Difficulty 2.3/5
+Note: Very few reviews. Taught CSC2510 (Theoretical Foundations of CS). Reviews praise him as easy and chill but contain little detail.
+
+--- Review (CSC2510, Dec 2025, Grade A+) ---
+He's easy. Like too easy. Tags: Helpful.
+
+--- Review (CSC2510, Oct 2025, Grade A+) ---
+Great prof, super chill. I took him for CSC2510. He was super chill and the tests were super easy. I didn't even read and got an A+ easily. Tags: Extra credit, Helpful.
+
+--- Review (CSC2510, Aug 2025, Grade A) ---
+Excellent professor. Based and goat. (Written as a logic proof: p = "Excellent professor", q = "Based and goat", p AND q = True.) Tags: Amazing lectures, Hilarious, Respected, Helpful.

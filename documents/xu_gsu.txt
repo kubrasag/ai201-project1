@@ -1,0 +1,12 @@
+Professor: Ping Xu
+Department: Computer Science
+University: Georgia State University
+Source: Rate My Professors
+Overall Quality: 1.0/5 (2 ratings), 0% would take again, Difficulty 4.0/5
+Note: Both reviews very negative. Taught CSC8980 (graduate seminar). Common complaints: text-heavy slides, slow/arbitrary grading.
+
+--- Review (CSC8980, Jun 2026, Grade B) ---
+This professor isn't very good. Classes are filled with paragraphs of text on presentation slides. Questions often go unanswered and grading is slow. The material is difficult, so choose a different instructor if possible. Avoid office hours if possible; some of her requests may make you very uncomfortable. Tags: Tough grader, Graded by few things, Helpful.
+
+--- Review (CSC8980, May 2026, Grade B-) ---
+Not a class students should take unless necessary. Classes are almost completely lectures with little application practice. The professor's grading is inconsistent and arbitrary; don't expect anything higher than 90-95 even on perfect work. The instructor is highly unreliable. Attend at your own risk (85 or higher required for any credit in 8980). Tags: Tough grader, Lecture heavy, Test heavy, Helpful.

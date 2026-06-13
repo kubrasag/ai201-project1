@@ -10,7 +10,9 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+Student reviews of Computer Science professors at Georgia State University. I collected the ratings and written reviews of 10 professors from the GSU Computer Science department on Rate My Professors.
 
+This knowledge is hard to find through official channels because the course catalog only lists titles, times, and credit hours, not the things students actually care about: whether a professor's exams match their lectures, whether attendance matters, or whether grading is lenient or harsh. That information is spread across many separate reviews written for different courses at different times, so a student has to read through all of them to get the full picture. This system makes that scattered, opinion-based knowledge searchable with plain-language questions.
 ---
 
 ## Documents
@@ -18,18 +20,6 @@
 <!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
      Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
 
-| # | Source | Description | URL or location |
-|---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
 
 ---
 

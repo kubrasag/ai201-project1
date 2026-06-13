@@ -1,0 +1,39 @@
+Professor: Yanqing Zhang
+Department: Computer Science
+University: Georgia State University
+Source: Rate My Professors
+Overall Quality: 2.0/5 (11 ratings), 19% would take again, Difficulty 3.1/5
+Note: Mostly negative reviews — common complaint is self-teaching / disorganized lectures.
+
+--- Review (CSC4810 AI, Apr 2026, Grade Incomplete) ---
+Passionate but lectures are horribly disorganized. Class time is often spent on tangents like Chinese chess or old facility layouts rather than core material. He talked about a picture of a Waymo for 50 minutes instead of our assignments. Disconnected coursework makes it hard to follow if you prefer structured learning. Tags: Tough grader, Graded by few things, Helpful.
+
+--- Review (CSC4810, Dec 2025, Grade B) ---
+Tough grader, won't tell you what you did wrong, doesn't know how to teach in a big class setting, barely audible behind the first 2 rows, will talk about research instead of explaining concepts. Very open homework questions: he asks for your own solution to a problem but grades it against the perfect answer. Tags: Helpful.
+
+--- Review (CSC4810, Dec 2024, Grade A+) ---
+This class could have been done online. The lectures could have been done in half the time. Overall it is not a hard class. Very lenient semester-long project. Tags: Clear grading criteria, Graded by few things, Accessible outside class, Helpful.
+
+--- Review (CSC4810, Apr 2024) ---
+Terrible professor. Probably the worst CS professor I've ever had. Class is nothing about real-world AI or machine learning at all. Changes deadlines anytime he wants without caring for students. All his assignments are things he never taught in class. Forgets university grading deadlines and penalizes students for it. Does not teach — it's self-teaching. Tags: Tough grader, So many papers, Helpful.
+
+--- Review (CSC4810, Mar 2024) ---
+Probably one of my favorite professors. So passionate; you can tell how much he loves to teach the subject. The midterm and final are take-home. There are 4 homeworks. It may be a little hard to understand his accent. Overall loved his class. Tags: Helpful.
+
+--- Review (CSC4320 Operating Systems, May 2023, Grade A) ---
+If you are incapable of self-learning, this professor is not for you. The most boring lectures known to man. You are graded by 2 homework assignments, 2 tests, and a project (individual or group). Although graded by few things, he is a very lenient grader, so as long as you do what he asks you should get at least an 80% if not an A. Tags: Lecture heavy, Graded by few things, Accessible outside class, Helpful.
+
+--- Review (CSC4320, Apr 2023, Grade Incomplete) ---
+Very lacking teaching skill. He doesn't check up on your progress. His philosophy is you learn from problem solving through research, research and research. A day in his class, 90% of students disappeared while he rambled about doing research and problem solving. Nobody asks him questions, everyone on their phone. No learning, easy grade. Tags: Extra credit, Helpful.
+
+--- Review (CSC4320, Aug 2022, Grade B) ---
+The lectures are very boring and you will fall asleep. That said, he is very patient and lenient with late submissions and resubmissions if you weren't satisfied with your original grade — you just have to reach out and ask. I was failing the class and he gave me an opportunity to resubmit certain things and I finished with a B. Tags: Graded by few things, Helpful.
+
+--- Review (CSC4320, Jun 2022) ---
+Attendance onwards from lecture 1 follows an inverse exponential curve. Tags: Group projects, So many papers, Graded by few things, Helpful.
+
+--- Review (CSC4320, Aug 2021, Grade A, online) ---
+This teacher is the worst I've ever had and should not be teaching. He will take away points if others did better than you. He gives an assignment with very little explanation, then grades as if he gave a detailed description. His exams are based off 1 or 2 slides out of hundreds. He is not responsive to emails. Tags: Graded by few things, Tough grader, Helpful.
+
+--- Review (CSC4810, Apr 2018) ---
+The midterm and final are only one question, basically from past homework, which is kind of hard. It is hard to understand him. He is not clear on any assigned work; you have to figure out everything on your own. There are about 3 homeworks and 1 paper due at the end. I would take him again because it's easy to get through. Tags: Helpful.

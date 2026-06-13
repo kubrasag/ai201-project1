@@ -1,0 +1,50 @@
+Professor: Rajshekhar Sunderraman (Dr. Raj)
+Department: Computer Science
+University: Georgia State University
+Source: Rate My Professors
+Overall Quality: 4.8/5 (15 ratings), 80% would take again, Difficulty 3.4/5
+
+--- Review (CSC1301, Dec 2025, Grade A+) ---
+I wouldn't take him again for reasons I won't disclose. He is a great professor nonetheless. His assignments are difficult but it makes you step out of your comfort zone. He is extremely passionate about what he talks about. If you want to learn more about programming languages and compilers, he's a great professor for that. Tags: Gives good feedback, Caring, Accessible outside class, Helpful.
+
+--- Review (CSC1302, Nov 2025, Grade A+) ---
+Super chill. Take him if you are serious about CS. Tags: Extra credit, Amazing lectures, Accessible outside class, Helpful.
+
+--- Review (CSC1302, Aug 2025, Grade A+) ---
+Super chill professor. His assignments are demanding but lectures aren't compulsory. If you don't like coding problems don't take him. But if you are serious about CS and programming don't miss the chance to take him. He is really helpful, very friendly and humble. Tags: Extra credit, Amazing lectures, Respected, Helpful.
+
+--- Review (CSC1302, May 2025, Grade A) ---
+Worth it. Attendance mandatory. Tags: Clear grading criteria, Inspirational, Respected, Helpful.
+
+--- Review (CSC1301, Dec 2024, Grade A) ---
+I wouldn't say the class is easy, this is an honors class, so the pace is fast compared to general lab classes. But the professor is very kind, passionate and teaches really well. Being able to take this class with this professor is probably the biggest benefit of being in the honors college. Tags: Amazing lectures, Caring, Respected, Helpful.
+
+--- Review (CSC1301, Dec 2023, Grade A-) ---
+I had Dr. Raj for my 1301 lab since I'm in honors, and I learned a lot about coding that I probably wouldn't have learned otherwise. He is very passionate and will spend time outside of class to explain concepts and help with assignments. Be prepared to put in time and effort; it may be difficult but it's totally worth it. Tags: Amazing lectures, Gives good feedback, Accessible outside class, Helpful.
+
+--- Review (HON1000, Dec 2023, Grade A+) ---
+I took HON1000 data manipulation in Python and absolutely loved it. We learned some Python, graphics, and SQL. He is very responsive to emails. We had 4 assignments; the class is not difficult but you have to pay attention to do well. You may want some prior Python knowledge since it moves at a fast pace. Tags: Amazing lectures, Respected, Accessible outside class, Helpful.
+
+--- Review (CSC1301, Nov 2023, Grade A+) ---
+I had Dr. Raj for 1302 lab since I'm in honors, and I agree he is the best. He is very passionate and knowledgeable and doesn't get annoyed explaining the same concepts again. Super accessible, flexible, and passionate. His energetic teaching style makes class fun. Tags: Caring, Respected, Accessible outside class, Helpful.
+
+--- Review (CSC1301, Mar 2023, Grade A) ---
+Probably the best professor you'll ever have. He's very helpful and passionate about the classes he teaches. You're missing out if you don't get him for at least one class before you graduate. Tags: Amazing lectures, Inspirational, Accessible outside class, Helpful.
+
+--- Review (CSC1301, Jan 2023, Grade A) ---
+Good professor and course. Gets tougher towards the second half of the semester for his labs, but he cares about your success and is very easy to get help from outside of class. His course lives up to being an honors-level course, not an easy laid-back course. He teaches well; just be ready to practice and learn. Tags: Amazing lectures, Clear grading criteria, Accessible outside class, Helpful.
+
+--- Review (CSC1301, Nov 2022) ---
+I had Dr. Raj for the lab portion of CSC1301. He is an excellent teacher and knows a lot about the material. He is always willing to help and wants you to succeed. Tags: Gives good feedback, Helpful.
+
+--- Review (CSC4330, May 2022, Grade A-) ---
+He is very passionate about PLC (Programming Language Concepts). You need to ask a lot of questions and spend a lot of time understanding the material. Very code-heavy assignments and projects. The exams were fairly difficult. Tags: Caring, Respected, Lecture heavy, Helpful.
+
+--- Review (CSC4330, Mar 2021, Grade A, online) ---
+Best professor I have ever had the opportunity to take a class from. Such a good professor, cannot recommend him enough. Tags: Gives good feedback, Respected, Inspirational, Helpful.
+
+--- Review (HON1000, Oct 2020, online) ---
+This was described as an honors seminar introductory coding class, but I don't think introductory is fitting. I had no coding experience when I joined so the homework was extremely hard to keep up with. It's a great class with a great professor, but for people who already have some coding experience. Tags: Accessible outside class, Graded by few things, Caring, Helpful.
+
+--- Review (CSC4330, Aug 2020, Grade B-, online) ---
+Taken online due to coronavirus. Professor Raj is very knowledgeable of PLC although he does have to search some things up during lectures. Homework is mostly Python programming assignments, uses Piazza for discussion posts, and curves heavily knowing his class will be hard. Tip: read his slides. Tags: Respected, Accessible outside class, Lecture heavy, Helpful.

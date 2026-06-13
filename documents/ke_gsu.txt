@@ -1,0 +1,27 @@
+Professor: Hongyu Ke
+Department: Computer Science
+University: Georgia State University
+Source: Rate My Professors
+Overall Quality: 3.7/5 (7 ratings), 58% would take again, Difficulty 3.0/5
+Note: Taught CSC3320 (Systems-Level Programming / C). Common themes: caring and knowledgeable but a language barrier; tests are hard, saved by a generous curve.
+
+--- Review (CSC3320, May 2026, Grade A-) ---
+I felt the professor was very knowledgeable and caring toward students. The test is okay if you review the lecture notes in time. Lab is easy. Tags: Caring, Respected, Lecture heavy, Helpful.
+
+--- Review (CSC3320, Aug 2024, Grade A-) ---
+After taking this course, I feel like I'm starting to know the path to code. This professor is good, active, and caring if you ask him questions. He always guides you in a clear way. Tags: Gives good feedback, Lots of homework, Caring, Helpful.
+
+--- Review (CSC3320, Aug 2024, Grade B+) ---
+The lectures are valuable and need to be attended. This professor is a very nice guy and willing to provide help. The class I had with him was very hard and confusing, but I feel like with any other professor I would have done worse. Tags: Get ready to read, Participation matters, Caring, Helpful.
+
+--- Review (CSC3320, Aug 2024, Grade A-) ---
+This course is easy to follow if you attend every class and ask questions during class. The professor is supportive. Tags: Amazing lectures, Gives good feedback, Inspirational, Helpful.
+
+--- Review (CSC3320, May 2024, Grade B) ---
+His class was alright. There was kind of a language barrier so it was difficult to understand but not impossible. The tests are very, very hard. I feel like I wasn't prepared well for them. The only reason I got a B is because the curve is insane. The assignments and labs were light work though. Just make sure you study. Tags: Tough grader, Lecture heavy, Helpful.
+
+--- Review (CSC3320, May 2024, Grade A) ---
+Lectures are long and boring. Most of the time it's hard to understand him because of the language barrier. Labs are very easy. Test reviews are very vague and you'll have to do a lot of self-studying. Doesn't respond to emails. The grading criteria is unclear. Personality-wise he's quiet and understanding. There are pop quizzes for extra credit. Tags: Extra credit, Lecture heavy, Helpful.
+
+--- Review (CSC3320, Jan 2024, Grade A+) ---
+I stopped going after the first three lectures. It was very tedious and dry. Fortunately it's very easy to self-study the material. Just practice programming in C a few days in advance and you should be fine for the exams. Tags: Helpful.
