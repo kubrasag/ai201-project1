@@ -21,7 +21,7 @@ If the excerpts do not contain enough information to answer, reply exactly: \
 Keep your answer concise and specific."""
 
 
-def ask(question, k=6):
+def ask(question, k=5):
     chunks = retrieve(_collection, question, k=k)
     context = "\n\n".join(
         f"[Source: {c['source']}]\n{c['text']}" for c in chunks
